@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **JavaScript, NodeJS, HTML and CSS**
 
-- 🌱 I’m currently learning **Java, JavaScript, TypeScript, HTML and CSS**
+- 🌱 I’m currently learning **Java and JavaScript**
 
 - 🖥️ I’m looking to collaborate on **Web developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/guilherme-hl1ma?tab=repositories](https://github.com/guilherme-hl1ma?tab=repositories)
-
-- 📫 How to reach me **guihlimaa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/guilhermehl1ma/](https://www.linkedin.com/in/guilhermehl1ma/)
 

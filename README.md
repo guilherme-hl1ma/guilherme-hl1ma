@@ -1,19 +1,6 @@
 <h1 align="center">Hey, I'm Guilherme</h1>
 <h3 align="center">Graduating in Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilherme-hl1ma&label=Profile%20views&color=0e75b6&style=flat" alt="guilherme-hl1ma" /> </p>
-
-- 🔭 I’m currently working on **JavaScript, NodeJS, HTML and CSS**
-
-- 🌱 I’m currently learning **Java and JavaScript**
-
-- 🖥️ I’m looking to collaborate on **Web developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/guilherme-hl1ma?tab=repositories](https://github.com/guilherme-hl1ma?tab=repositories)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/guilhermehl1ma/](https://www.linkedin.com/in/guilhermehl1ma/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

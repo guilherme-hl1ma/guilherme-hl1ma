@@ -3,6 +3,8 @@
 
 ##
 
+Currently graduating in Software Engineering
+
 <div>
   <a href="https://github.com/guilherme-hl1ma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />

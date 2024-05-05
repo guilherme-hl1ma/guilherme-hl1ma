@@ -1,7 +1,7 @@
 ## Hey There, I'm Guilherme
 <div>
   <a href="https://github.com/guilherme-hl1ma">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&bg_color=00000000&theme=transparent"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&bg_color=111111&theme=transparent"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 

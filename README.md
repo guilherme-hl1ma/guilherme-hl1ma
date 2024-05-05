@@ -1,3 +1,10 @@
+<style>
+    p {
+        font-size: 2em; /* Altere o tamanho da fonte conforme necessário */
+        font-weight: bold; /* Deixe o texto em negrito */
+        color: #333; /* Escolha uma cor de texto */
+    }
+</style>
 <p>Hey, I'm Guilherme</p>
 
 ## 😎About Me

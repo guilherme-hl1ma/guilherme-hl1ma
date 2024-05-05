@@ -15,7 +15,6 @@
       
 ## ⚒️Languages
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 

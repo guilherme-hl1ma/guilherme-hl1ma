@@ -26,8 +26,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" /></p>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" /></p>
+<p></p>
+
+<p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>

@@ -16,6 +16,9 @@
 <div> 
   
   <div>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
+    </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
@@ -36,9 +39,8 @@
   </div>
     
   <div>
-    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
+     <a href="https://firebase.google.com/?hl=en&authuser=0" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
   </div>
       
 <div>

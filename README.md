@@ -3,7 +3,13 @@
 
 ##
 
+- ⚙️ Currently graduating in Software Engineering
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
 Currently graduating in Software Engineering
+
+##
 
 <div>
   <a href="https://github.com/guilherme-hl1ma">
@@ -37,8 +43,7 @@ Currently graduating in Software Engineering
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-##
- 
+## 📫Reach Me
 <div> 
   <a href = "mailto:guihlimaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/guilhermehl1ma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

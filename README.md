@@ -1,7 +1,5 @@
-Hey, I'm Guilherme
-#
+# Hey, I'm Guilherme
 <h3 align="left">Hey, I'm Guilherme</h1>
-<h3 align="left">Graduating in Software Engineering</h3>
 
 ##
 

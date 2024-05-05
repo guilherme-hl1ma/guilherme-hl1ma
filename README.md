@@ -13,7 +13,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>
       
-## ⚒️Languages
+## ⚒️Languages and Tools
 
 <div> 
   </a> 

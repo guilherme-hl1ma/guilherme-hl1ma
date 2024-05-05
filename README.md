@@ -1,10 +1,7 @@
 <h1 align="center">Hey, I'm Guilherme</h1>
 <h3 align="center">Graduating in Software Engineering</h3>
 
-<p align="left">
-</p>
-
-  ##
+##
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -27,7 +24,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
-
+      
+##
+      
 <div>
   <a href="https://github.com/guilherme-hl1ma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />

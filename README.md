@@ -10,8 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" />
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>
       
 ## ⚒️Languages and Tools
 

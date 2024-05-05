@@ -1,6 +1,4 @@
-<div>
-  <span align="center" color="blue">Hey There, I'm Guilherme</span>
-</div>
+<span align="center" style="color:blue">Hey There, I'm Guilherme</span>
   
 <div>
   <a href="https://github.com/guilherme-hl1ma">

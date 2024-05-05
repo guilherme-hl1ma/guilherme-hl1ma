@@ -1,4 +1,7 @@
-<span align="center" style="color:blue">Hey There, I'm Guilherme</span><span style="color:red;">your text here > </span>
+| Hey There, I'm Guilherme |
+|:-:|
+| <span style="color:blue">Hey There, I'm Guilherme</span> |
+
 
 <div>
   <a href="https://github.com/guilherme-hl1ma">

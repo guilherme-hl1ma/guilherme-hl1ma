@@ -6,10 +6,7 @@ Hey, I'm Guilherme
 ##
 
 - ⟳ Currently graduating in Software Engineering
-- 🌱 I’m currently learning :kotlin:
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
-Currently graduating in Software Engineering
+- 🌱 I’m currently learning <span><img src="https://github.com/guilherme-hl1ma/guilherme-hl1ma/blob/main/kotlin.png" /></span>
 
 ##
 

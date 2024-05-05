@@ -1,6 +1,6 @@
 <div color="blue">Hey There, I'm Guilherme</div>
 
-$${\color{#0abdc6}TESTE$$
+$${\color{red}TESTE$$
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 

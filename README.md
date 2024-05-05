@@ -27,6 +27,7 @@
 
 <div>
 <a href="https://github.com/guilherme-hl1ma">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-hl1maa&show_icons=true&theme=transparent)
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>

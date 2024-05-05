@@ -1,13 +1,5 @@
-<div color="blue">Hey There, I'm Guilherme</div>
-
-$${\color[RGB]{10,189,198}TESTE}$$
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
 <div>
-  <a href="https://github.com/guilherme-hl1ma">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=tokyonight"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=tokyonight"/>
+  <h1>Hey There, I'm Guilherme>/h1>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

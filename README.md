@@ -1,5 +1,4 @@
 # Hey, I'm Guilherme
-<h3 align="left">Hey, I'm Guilherme</h1>
 
 ## 😎About Me
 

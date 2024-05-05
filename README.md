@@ -31,9 +31,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>

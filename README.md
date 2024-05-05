@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/guilherme-hl1ma">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=tokyonight"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=transparent"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,5 @@
 <div>
-  <span align="left" style="color: #0abdc6">Hey There, I'm Guilherme</span>
+  <span align="left" style="color:blue">Hey There, I'm Guilherme</span>
 </div>
   
 <div>

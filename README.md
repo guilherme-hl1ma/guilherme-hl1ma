@@ -1,9 +1,11 @@
+Hey, I'm Guilherme
+#
 <h3 align="left">Hey, I'm Guilherme</h1>
 <h3 align="left">Graduating in Software Engineering</h3>
 
 ##
 
-- ⚙️ Currently graduating in Software Engineering
+- ⟳ Currently graduating in Software Engineering
 - 🌍 I'm mostly active within the **Laravel Community**
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**

@@ -3,6 +3,16 @@
 
 ##
 
+<div>
+  <a href="https://github.com/guilherme-hl1ma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" />
+</div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>
+      
+##
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   </a> 
@@ -24,13 +34,3 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
-      
-##
-      
-<div>
-  <a href="https://github.com/guilherme-hl1ma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" />
-</div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-hl1ma&theme=dark" alt="guilherme-hl1ma" /></p>

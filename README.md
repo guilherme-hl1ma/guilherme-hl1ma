@@ -39,6 +39,8 @@
   </div>
     
   <div>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
      <a href="https://firebase.google.com/?hl=en&authuser=0" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
   </div>

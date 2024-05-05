@@ -1,4 +1,7 @@
-## Hey There, I'm Guilherme
+<div>
+  <h1 align="left" style="color: ##0abdc6" >Hey There, I'm Guilherme</h1>
+</div>
+  
 <div>
   <a href="https://github.com/guilherme-hl1ma">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=tokyonight"/>

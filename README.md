@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Guilherme</h1>
-<h3 align="center">Graduating in Software Engineering</h3>
+<h1 align="center">Guilherme Henrique</h1>
 
 <p align="left">
 </p>

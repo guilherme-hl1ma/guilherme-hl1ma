@@ -1,6 +1,6 @@
 | Hey There, I'm Guilherme |
 |:-:|
-| <span style="color:blue">Hey There, I'm Guilherme</span> |
+| <span color="blue">Hey There, I'm Guilherme</span> |
 
 <div>
   <a href="https://github.com/guilherme-hl1ma">

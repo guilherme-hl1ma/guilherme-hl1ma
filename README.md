@@ -5,7 +5,7 @@
         color: #333; /* Escolha uma cor de texto */
     }
 </style>
-<p>Hey, I'm Guilherme</p>
+<p align="left" font-size="2em">Hey, I'm Guilherme</p>
 
 ## 😎About Me
 

@@ -1,7 +1,9 @@
 ## Hey There, I'm Guilherme
-
-<p align="left">
-</p>
+<div>
+  <a href="https://github.com/guilherme-hl1ma">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=transparent"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -24,15 +26,3 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
-      
-<div>
-<a href="https://github.com/guilherme-hl1ma">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div>
-<a href="https://github.com/guilherme-hl1ma">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-hl1ma&layout=compact&langs_count=7"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&include_all_commits=true&count_private=true"/>
-</div>

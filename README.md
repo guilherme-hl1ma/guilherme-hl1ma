@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Guilherme</h1>
+<h3 align="center">Hey, I'm Guilherme</h1>
 <h3 align="center">Graduating in Software Engineering</h3>
 
 ##

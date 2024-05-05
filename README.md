@@ -1,4 +1,4 @@
-<span color="blue">Hey There, I'm Guilherme</span> |
+<div color="blue">Hey There, I'm Guilherme</div>
 
 <div>
   <a href="https://github.com/guilherme-hl1ma">

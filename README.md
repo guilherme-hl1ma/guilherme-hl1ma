@@ -1,5 +1,5 @@
 <span align="center" style="color:blue">Hey There, I'm Guilherme</span>
-  
+<code style="color : blue">text</code>
 <div>
   <a href="https://github.com/guilherme-hl1ma">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=tokyonight"/>

@@ -1,13 +1,4 @@
-<style>
-    p {
-        font-size: 2em; /* Altere o tamanho da fonte conforme necessário */
-        font-weight: bold; /* Deixe o texto em negrito */
-        color: #333; /* Escolha uma cor de texto */
-    }
-</style>
-<p align="left" font-size="2em">Hey, I'm Guilherme</p>
-
-## 😎About Me
+##>Hey, I'm Guilherme</p>
 
 - ⟳ Currently graduating in Software Engineering
 - 🌱 I’m currently learning <span><img width="12" height="12" src="https://github.com/guilherme-hl1ma/guilherme-hl1ma/blob/main/kotlin.png" /></span> and <span><img width="12" height="12" src="https://github.com/guilherme-hl1ma/guilherme-hl1ma/blob/main/android_studio.png" /></span>

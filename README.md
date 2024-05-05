@@ -6,7 +6,7 @@ Hey, I'm Guilherme
 ##
 
 - ⟳ Currently graduating in Software Engineering
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 I’m currently learning :kotlin:
 - 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
 Currently graduating in Software Engineering

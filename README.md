@@ -3,7 +3,7 @@
 - ⟳ Currently graduating in Software Engineering
 - 🌱 I’m currently learning <span><img width="12" height="12" src="https://github.com/guilherme-hl1ma/guilherme-hl1ma/blob/main/kotlin.png" /></span> and <span><img width="12" height="12" src="https://github.com/guilherme-hl1ma/guilherme-hl1ma/blob/main/android_studio.png" /></span>
 
-##
+## 📃Stats
 
 <div>
   <a href="https://github.com/guilherme-hl1ma">

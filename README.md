@@ -1,7 +1,5 @@
 <div color="blue">Hey There, I'm Guilherme</div>
 
-https://placehold.it/150/ffffff/ff0000?text=hello
-
 $${\color[RGB]{10,189,198}TESTE}$$
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$

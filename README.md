@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left" style="color: ##0abdc6;" >Hey There, I'm Guilherme</h1>
+  <span align="left" style="color: #0abdc6"><h1>Hey There, I'm Guilherme</h1></span>
 </div>
   
 <div>

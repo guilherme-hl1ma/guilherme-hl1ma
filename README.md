@@ -1,7 +1,7 @@
 ## Hey, I'm Guilherme
 
 - ⟳ Currently graduating in Software Engineering
-- 🌱 I’m currently developing with <span><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></span> and <span><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span>
+- 🌱 I’m currently developing with <span><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></span> and <span><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span>
 
 ## 🔗Stats
 

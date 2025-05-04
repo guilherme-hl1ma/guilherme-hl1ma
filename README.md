@@ -3,15 +3,6 @@
 - ⟳ Currently graduating in Software Engineering
 - 🌱 <span>I’m currently developing with: <a href="https://spring.io/" target="_blank" rel="noreferrer"><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></span></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span></a>
 
-
-## 🔗Stats
-
-<div>
-  <a href="https://github.com/guilherme-hl1ma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en" alt="guilherme-hl1ma" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-hl1ma&show_icons=true&theme=dark&locale=en&layout=compact" alt="guilherme-hl1ma" />
-</div>
-      
 ## ⚒️Languages and Tools
 
 <div> 

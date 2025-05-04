@@ -1,7 +1,7 @@
 ## Hey, I'm Guilherme
 
 - Currently undergraduating in Software Engineering
-- 🌱 <span>I’m currently developing with: <a href="https://spring.io/" target="_blank" rel="noreferrer"><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></span></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span></a>
+- <span>I’m currently developing with: <a href="https://spring.io/" target="_blank" rel="noreferrer"><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></span></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span></a>
 
 ## ⚒️Languages and Tools
 

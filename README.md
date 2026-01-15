@@ -1,6 +1,7 @@
 💻 Full-stack developer with experience in **Python** and modern web technologies  
 🚀 Currently working with **FastAPI and React**, building backend and frontend solutions for applications focused on **AI agents and workflow automation**.
 
+## 🛠️ Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32" />

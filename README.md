@@ -1,7 +1,8 @@
 ## Guilherme
 
-💻 Full-stack developer with experience in **Python** and **NodeJS** and modern web technologies  
+💻 Full-stack developer with experience in **Python** and **NodeJS** and modern web technologies
 🚀 Currently working with **FastAPI, React and NestJS**, building backend and frontend solutions for applications focused on **AI agents and workflow automation**.
+
 ☁️ Additionally, I'm learning cloud computing through hands-on experience with Microsoft Azure.
 
 ## 📫 Reach Me
